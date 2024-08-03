@@ -1,0 +1,163 @@
+*{
+    border: 0px;
+    margin:0px;
+    padding:0px;
+}
+
+body{
+    background-color: lightblue;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    display: inline-block;
+    padding: 20px 61px;
+    border: 1px solid black;
+    background-color: blue;
+}
+
+a{
+    text-align: center;
+    color: aliceblue;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+li:hover{
+    background-color: rgb(160, 164, 164);
+    
+}
+
+a:hover{
+    color:black;
+}
+
+table{
+    background-color: white;
+}
+
+footer{
+    background-color: blue;
+    text-align: center;
+    height: 75px;
+    color: white;
+    font-size: 15px;    
+}
+
+.texto{
+    text-align: justify;
+    padding: 20px;
+    
+}*{
+    border: 0px;
+    margin:0px;
+    padding:0px;
+}
+
+body{
+    background-color: lightblue;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    display: inline-block;
+    padding: 20px 61px;
+    border: 1px solid black;
+    background-color: blue;
+}
+
+a{
+    text-align: center;
+    color: aliceblue;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+li:hover{
+    background-color: rgb(160, 164, 164);
+    
+}
+
+a:hover{
+    color:black;
+}
+
+table{
+    background-color: white;
+}
+
+footer{
+    background-color: blue;
+    text-align: center;
+    height: 75px;
+    color: white;
+    font-size: 15px;    
+}
+
+.texto{
+    text-align: justify;
+    padding: 20px;
+    
+}*{
+    border: 0px;
+    margin:0px;
+    padding:0px;
+}
+
+body{
+    background-color: lightblue;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    display: inline-block;
+    padding: 20px 61px;
+    border: 1px solid black;
+    background-color: purple;
+}
+
+a{
+    text-align: center;
+    color: aliceblue;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+li:hover{
+    background-color: rgb(160, 164, 164);
+    
+}
+
+a:hover{
+    color:black;
+}
+
+table{
+    background-color: white;
+}
+
+footer{
+    background-color: blueviolet;
+    text-align: center;
+    height: 75px;
+    color: white;
+    font-size: 15px;    
+}
+
+.texto{
+    text-align: justify;
+    padding: 20px;
+    
+}
